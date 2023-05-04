@@ -1,5 +1,5 @@
-# podcastweb_prj
-Api Podcast Project
+# podcast
+Api Podcast Website Project
 
 ## descriptiong
 In this project, I created a small website called podcast (back-end). The features of this satellite are as follows:
