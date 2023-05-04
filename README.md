@@ -3,9 +3,10 @@ Api Podcast Website Project
 
 ## descriptiong
 In this project, I created a small website called podcast (back-end). The features of this satellite are as follows:
--JWT
--API for all of Models and Views
--Testing(but half however i will put it in this repository as soon as i learn it) path: 'mainapp.tests'
+- Django Dynamic Web
+- JWT
+- API for all of Models and Views
+- Testing(but half however i will put it in this repository as soon as i learn it) path: 'mainapp.tests'
 
 ## Install and Run
 ```bash
