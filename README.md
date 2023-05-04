@@ -2,7 +2,7 @@
 Api Podcast Website Project
 
 ## descriptiong
-In this project, I created a small website called podcast (back-end). The features of this satellite are as follows:
+In this project, I created a small website called podcast (back-end). The features of this repo are as follows:
 - Django Dynamic Web
 - JWT
 - API for all of Models and Views
