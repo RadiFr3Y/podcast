@@ -7,6 +7,7 @@ In this project, I created a small website called podcast (back-end). The featur
 - JWT
 - API for all of Models and Views
 - Testing(but half however i will put it in this repository as soon as i learn it) path: 'mainapp.tests'
+- Django Login system
 
 ## Install and Run
 ```bash
